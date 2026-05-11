@@ -17,8 +17,8 @@
 ---
 ## 🗺️ SAWS Synoptic Chart
 
-![SAWS Synoptic](https://www.weathersa.co.za/images/data/specialised/ma_sy.gif)
-*[South African Weather Service — Synoptic Analysis](https://www.weathersa.co.za/home/synopticcharts)*
+![SAWS Synoptic](https://raw.githubusercontent.com/seafury/daily-reports/main/synoptic_2026-05-11.gif)
+*[South African Weather Service — Synoptic Analysis](https://www.weathersa.co.za/home/synopticcharts) | [View full chart](https://www.weathersa.co.za/home/synopticcharts)*
 
 ---
 ## 🌤️ 3-Day Weather Forecast
