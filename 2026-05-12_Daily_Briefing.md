@@ -1,6 +1,6 @@
 # 📰 Daily Briefing — Tuesday, 12 May 2026
 
-*Generated 12:39 SAST | Cape Town, South Africa*
+*Generated 12:40 SAST | Cape Town, South Africa*
 
 ---
 ## 🤖 Top 5 AI News
@@ -43,15 +43,15 @@
 ---
 ## 🎬 AI Coding Videos
 
-### 1. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
-**Channel:** Tech With Tim
-**Duration:** 15:03 | **Views:** 78K
+### 1. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
+**Channel:** Riley Brown
+**Duration:** 103:13 | **Views:** 125K
 
 > *(No transcript available)*
 
-### 2. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
-**Channel:** Riley Brown
-**Duration:** 103:13 | **Views:** 125K
+### 2. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
+**Channel:** Tech With Tim
+**Duration:** 15:03 | **Views:** 78K
 
 > *(No transcript available)*
 
