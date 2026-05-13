@@ -1,5 +1,5 @@
 # 🌊 Cape Town — Daily Weather & Tide Report
-**Generated:** 07:01 SAST | **Date:** Wednesday, 13 May 2026
+**Generated:** 08:30 SAST | **Date:** Wednesday, 13 May 2026
 **Sources:** Open-Meteo Weather & Marine API, tide-forecast.com, SAWS Synoptic Chart
 
 ---
@@ -7,12 +7,12 @@
 
 | Metric | Value |
 |--------|-------|
-| 🌡️ Temperature | 14.5°C |
-| 💧 Humidity | 72% |
-| 🌬️ Wind | 17.4 km/h from WSW (248°) |
-| 💨 Gusts | 58.0 km/h |
-| 🔵 Pressure | 1019.2 hPa |
-| 🌧️ Conditions | Partly cloudy ⛅ (Code 2) |
+| 🌡️ Temperature | 14.6°C |
+| 💧 Humidity | 70% |
+| 🌬️ Wind | 14.6 km/h from WSW (243°) |
+| 💨 Gusts | 49.7 km/h |
+| 🔵 Pressure | 1020.2 hPa |
+| 🌧️ Conditions | Overcast ☁️ (Code 3) |
 
 ---
 ## 🗺️ SAWS Synoptic Chart
@@ -28,7 +28,7 @@
 - **Temp:** 12.7°C – 16.5°C
 - **Wind:** 19.8 km/h (WSW) | Gusts: 63.4 km/h
 - **Precipitation:** 0.4 mm
-- **UV Index:** 3.6
+- **UV Index:** 3.7
 
 ### 📅 Thursday, 14 May
 - **Conditions:** Overcast ☁️
@@ -381,6 +381,6 @@
 - **Next high tide:** 00:16 AM at 1.62m
 
 ---
-*Report generated 07:01 SAST | Cape Town, South Africa*
+*Report generated 08:30 SAST | Cape Town, South Africa*
 
 *Tomorrow's report drops at 7:00 AM SAST. Fair winds! 🧭*
