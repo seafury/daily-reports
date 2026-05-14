@@ -1,5 +1,5 @@
 # 🌊 Cape Town — Daily Weather & Tide Report
-**Generated:** 07:01 SAST | **Date:** Thursday, 14 May 2026
+**Generated:** 10:33 SAST | **Date:** Thursday, 14 May 2026
 **Sources:** Open-Meteo Weather & Marine API, tide-forecast.com, SAWS Synoptic Chart
 
 ---
@@ -7,12 +7,12 @@
 
 | Metric | Value |
 |--------|-------|
-| 🌡️ Temperature | 10.2°C |
-| 💧 Humidity | 89% |
-| 🌬️ Wind | 1.6 km/h from N (360°) |
-| 💨 Gusts | 12.2 km/h |
-| 🔵 Pressure | 1023.7 hPa |
-| 🌧️ Conditions | Clear sky ☀️ (Code 0) |
+| 🌡️ Temperature | 15.0°C |
+| 💧 Humidity | 76% |
+| 🌬️ Wind | 7.2 km/h from N (3°) |
+| 💨 Gusts | 22.3 km/h |
+| 🔵 Pressure | 1024.1 hPa |
+| 🌧️ Conditions | Partly cloudy ⛅ (Code 2) |
 
 ---
 ## 🗺️ SAWS Synoptic Chart
@@ -25,22 +25,22 @@
 
 ### 📅 Thursday, 14 May
 - **Conditions:** Overcast ☁️
-- **Temp:** 10.2°C – 17.8°C
-- **Wind:** 10.4 km/h (NNW) | Gusts: 31.0 km/h
+- **Temp:** 10.1°C – 17.3°C
+- **Wind:** 10.2 km/h (NNW) | Gusts: 31.0 km/h
 - **Precipitation:** 0.0 mm
 - **UV Index:** 4.3
 
 ### 📅 Friday, 15 May
 - **Conditions:** Light drizzle 🌦️
-- **Temp:** 11.2°C – 19.3°C
-- **Wind:** 14.6 km/h (SSE) | Gusts: 45.4 km/h
-- **Precipitation:** 0.4 mm
+- **Temp:** 11.9°C – 19.2°C
+- **Wind:** 13.5 km/h (SSE) | Gusts: 43.6 km/h
+- **Precipitation:** 0.3 mm
 - **UV Index:** 4.25
 
 ### 📅 Saturday, 16 May
 - **Conditions:** Clear sky ☀️
-- **Temp:** 12.8°C – 21.0°C
-- **Wind:** 14.2 km/h (SE) | Gusts: 43.9 km/h
+- **Temp:** 13.2°C – 20.6°C
+- **Wind:** 14.0 km/h (SSE) | Gusts: 44.3 km/h
 - **Precipitation:** 0.0 mm
 - **UV Index:** 4.25
 
@@ -374,12 +374,12 @@
 ---
 ## ⛵ Sailing & Navigation Notes
 
-- **Today's max wind:** 10.4 km/h from NNW
+- **Today's max wind:** 10.2 km/h from NNW
 - **Today's max swell:** 3.4m
 - ⚠️ **Caution for small craft** — swell above 3m. Consider sheltered waters or postponing offshore passages.
 - **Next high tide:** 1:03 AM at 1.73m
 
 ---
-*Report generated 07:01 SAST | Cape Town, South Africa*
+*Report generated 10:33 SAST | Cape Town, South Africa*
 
 *Tomorrow's report drops at 7:00 AM SAST. Fair winds! 🧭*
