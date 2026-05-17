@@ -49,15 +49,15 @@
 
 > *(No transcript available)*
 
-### 2. [How to Actually Build Mobile Apps with AI in 2026 | A Complete Beginner's Tutorial](https://www.youtube.com/watch?v=Q7AYc2kECDI)
-**Channel:** JavaScript Mastery
-**Duration:** 220:48 | **Views:** 37K
+### 2. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
+**Channel:** Tech With Tim
+**Duration:** 15:03 | **Views:** 79K
 
 > *(No transcript available)*
 
-### 3. [Best AI Coding Tools for Developers in 2026 (Don't Choose Wrong)](https://www.youtube.com/watch?v=RKbmqSRc0z0)
-**Channel:** Mikey No Code
-**Duration:** 27:10 | **Views:** 82K
+### 3. [How to Actually Build Mobile Apps with AI in 2026 | A Complete Beginner's Tutorial](https://www.youtube.com/watch?v=Q7AYc2kECDI)
+**Channel:** JavaScript Mastery
+**Duration:** 220:48 | **Views:** 37K
 
 > *(No transcript available)*
 
