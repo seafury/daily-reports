@@ -1,5 +1,5 @@
 # 🌊 Cape Town — Daily Weather & Tide Report
-**Generated:** 07:00 SAST | **Date:** Sunday, 17 May 2026
+**Generated:** 11:10 SAST | **Date:** Sunday, 17 May 2026
 **Sources:** Open-Meteo Weather & Marine API, tide-forecast.com, SAWS Synoptic Chart
 
 ---
@@ -7,12 +7,12 @@
 
 | Metric | Value |
 |--------|-------|
-| 🌡️ Temperature | 14.4°C |
-| 💧 Humidity | 99% |
-| 🌬️ Wind | 12.8 km/h from SSE (151°) |
-| 💨 Gusts | 35.3 km/h |
-| 🔵 Pressure | 1019.1 hPa |
-| 🌧️ Conditions | Partly cloudy ⛅ (Code 2) |
+| 🌡️ Temperature | 18.2°C |
+| 💧 Humidity | 84% |
+| 🌬️ Wind | 18.8 km/h from SSE (151°) |
+| 💨 Gusts | 52.2 km/h |
+| 🔵 Pressure | 1020.3 hPa |
+| 🌧️ Conditions | Clear sky ☀️ (Code 0) |
 
 ---
 ## 🗺️ SAWS Synoptic Chart
@@ -25,24 +25,24 @@
 
 ### 📅 Sunday, 17 May
 - **Conditions:** Overcast ☁️
-- **Temp:** 13.0°C – 18.7°C
-- **Wind:** 22.6 km/h (SSE) | Gusts: 58.7 km/h
+- **Temp:** 12.6°C – 18.9°C
+- **Wind:** 23.2 km/h (SSE) | Gusts: 62.3 km/h
 - **Precipitation:** 0.0 mm
-- **UV Index:** 3.95
+- **UV Index:** 4.1
 
 ### 📅 Monday, 18 May
 - **Conditions:** Overcast ☁️
-- **Temp:** 15.3°C – 20.5°C
-- **Wind:** 25.6 km/h (SE) | Gusts: 67.0 km/h
+- **Temp:** 15.5°C – 20.3°C
+- **Wind:** 25.2 km/h (SE) | Gusts: 67.0 km/h
 - **Precipitation:** 0.0 mm
-- **UV Index:** 3.75
+- **UV Index:** 3.25
 
 ### 📅 Tuesday, 19 May
-- **Conditions:** Overcast ☁️
-- **Temp:** 16.4°C – 21.9°C
-- **Wind:** 19.7 km/h (SE) | Gusts: 52.2 km/h
-- **Precipitation:** 0.0 mm
-- **UV Index:** 3.0
+- **Conditions:** Light drizzle 🌦️
+- **Temp:** 16.4°C – 21.4°C
+- **Wind:** 19.9 km/h (SE) | Gusts: 54.7 km/h
+- **Precipitation:** 0.1 mm
+- **UV Index:** 3.95
 
 ---
 ## 🌊 Marine Conditions (Open-Meteo Marine)
@@ -374,12 +374,12 @@
 ---
 ## ⛵ Sailing & Navigation Notes
 
-- **Today's max wind:** 22.6 km/h from SSE
+- **Today's max wind:** 23.2 km/h from SSE
 - **Today's max swell:** 1.62m
 - Favorable conditions for coastal sailing and harbour work.
 - **Next high tide:** 3:15 AM at 1.89m
 
 ---
-*Report generated 07:00 SAST | Cape Town, South Africa*
+*Report generated 11:10 SAST | Cape Town, South Africa*
 
 *Tomorrow's report drops at 7:00 AM SAST. Fair winds! 🧭*
