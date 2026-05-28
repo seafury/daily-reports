@@ -33,9 +33,14 @@ TELEGRAM_BOT  = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT = os.environ.get("TELEGRAM_HOME_CHANNEL", "1409471601")
 GITHUB_TOKEN  = os.environ.get("GITHUB_TOKEN", "")
 if not GITHUB_TOKEN:
+    # Legacy fallback: read token assignment from cape_town_report.py without executing it.
+    # Executing that file generates and pushes the Cape Town report as a side effect.
     try:
-        exec(open(os.path.expanduser("~/.hermes/cape_town_report.py")).read())
-        GITHUB_TOKEN = locals().get("GITHUB_TOKEN", "")
+        cape_script = os.path.expanduser("~/.hermes/cape_town_report.py")
+        with open(cape_script, "r", encoding="utf-8") as f:
+            m = re.search(r'^GITHUB_TOKEN\s*=\s*["\']([^"\']+)["\']', f.read(), re.M)
+        if m:
+            GITHUB_TOKEN = m.group(1)
     except Exception:
         pass
 
