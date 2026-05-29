@@ -1,5 +1,5 @@
 # 🌊 Cape Town — Daily Weather & Tide Report
-**Generated:** 07:00 SAST | **Date:** Friday, 29 May 2026
+**Generated:** 08:49 SAST | **Date:** Friday, 29 May 2026
 **Sources:** Open-Meteo Weather & Marine API, tide-forecast.com, SAWS Synoptic Chart
 
 ---
@@ -7,11 +7,11 @@
 
 | Metric | Value |
 |--------|-------|
-| 🌡️ Temperature | 12.9°C |
-| 💧 Humidity | 90% |
-| 🌬️ Wind | 12.0 km/h from SSE (150°) |
-| 💨 Gusts | 40.0 km/h |
-| 🔵 Pressure | 1026.2 hPa |
+| 🌡️ Temperature | 14.3°C |
+| 💧 Humidity | 83% |
+| 🌬️ Wind | 13.8 km/h from SSE (151°) |
+| 💨 Gusts | 43.2 km/h |
+| 🔵 Pressure | 1027.0 hPa |
 | 🌧️ Conditions | Overcast ☁️ (Code 3) |
 
 ---
@@ -28,21 +28,21 @@
 - **Temp:** 12.4°C – 19.0°C
 - **Wind:** 14.3 km/h (SSE) | Gusts: 43.9 km/h
 - **Precipitation:** 0.0 mm
-- **UV Index:** 3.15
+- **UV Index:** 3.2
 
 ### 📅 Saturday, 30 May
 - **Conditions:** Overcast ☁️
 - **Temp:** 12.5°C – 18.4°C
 - **Wind:** 17.2 km/h (SSE) | Gusts: 46.1 km/h
 - **Precipitation:** 0.0 mm
-- **UV Index:** 3.8
+- **UV Index:** 3.75
 
 ### 📅 Sunday, 31 May
 - **Conditions:** Overcast ☁️
 - **Temp:** 12.2°C – 20.8°C
 - **Wind:** 11.0 km/h (SE) | Gusts: 30.6 km/h
 - **Precipitation:** 0.0 mm
-- **UV Index:** 3.85
+- **UV Index:** 3.9
 
 ---
 ## 🌊 Marine Conditions (Open-Meteo Marine)
@@ -380,6 +380,6 @@
 - **Next high tide:** 1:57 AM at 1.62m
 
 ---
-*Report generated 07:00 SAST | Cape Town, South Africa*
+*Report generated 08:49 SAST | Cape Town, South Africa*
 
 *Tomorrow's report drops at 7:00 AM SAST. Fair winds! 🧭*
