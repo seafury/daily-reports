@@ -443,12 +443,14 @@ def main():
     with open(filepath, "w") as f: f.write(md)
     print(f"  \u2705 Saved: {filepath}")
 
-    send_telegram(telegram_summary(md))
-    telegram_doc(filepath)
     git_push(filepath)
 
     print(f"\n{'='*52}")
-    print(f"  \u2705 Done!")
+    print(f"📋 Daily AI & Sailing Briefing — {TODAY} — ✅ Pushed to GitHub")
+    for i, item in enumerate(ai_news[:3], 1):
+        print(f"  {i}. {item['title']}")
+    vid_count = len(ai_vids) + len(sail_vids)
+    print(f"  🎬 {vid_count} videos ({len(ai_vids)} AI + {len(sail_vids)} sailing)")
     print(f"{'='*52}\n")
 
 
