@@ -1,6 +1,6 @@
 # 📰 Daily Briefing — Sunday, 14 June 2026
 
-*Generated 07:00 SAST | Cape Town, South Africa*
+*Generated 10:32 SAST | Cape Town, South Africa*
 
 ---
 ## 🤖 Top 5 AI News
@@ -43,21 +43,21 @@
 ---
 ## 🎬 AI Coding Videos
 
-### 1. [Best AI Agent Tools In 2026 (Beginner Friendly)](https://www.youtube.com/watch?v=Bn7YX_RfAt0)
-**Channel:** Mikey No Code
-**Duration:** 16:45 | **Views:** 15K
-
-> *(No transcript available)*
-
-### 2. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
+### 1. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
 **Channel:** Tech With Tim
 **Duration:** 15:03 | **Views:** 82K
 
 > *(No transcript available)*
 
-### 3. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
+### 2. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
 **Channel:** Riley Brown
 **Duration:** 103:13 | **Views:** 165K
+
+> *(No transcript available)*
+
+### 3. [Best AI Agent Tools In 2026 (Beginner Friendly)](https://www.youtube.com/watch?v=Bn7YX_RfAt0)
+**Channel:** Mikey No Code
+**Duration:** 16:45 | **Views:** 15K
 
 > *(No transcript available)*
 
@@ -67,9 +67,9 @@
 
 > *(No transcript available)*
 
-### 5. [Enter Pro by Converge AI: Vibe Coding AI Dev Agent](https://www.youtube.com/watch?v=NdElF9BPPOU)
-**Channel:** Dinis Guarda
-**Duration:** 7:01 | **Views:** 13K
+### 5. [Vibe code conversational agents in AI Studio](https://www.youtube.com/watch?v=KiJcZlqJKuE)
+**Channel:** Google for Developers
+**Duration:** 7:48 | **Views:** 5K
 
 > *(No transcript available)*
 
