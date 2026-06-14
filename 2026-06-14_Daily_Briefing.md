@@ -1,6 +1,6 @@
 # 📰 Daily Briefing — Sunday, 14 June 2026
 
-*Generated 10:34 SAST | Cape Town, South Africa*
+*Generated 10:40 SAST | Cape Town, South Africa*
 
 ---
 ## 🤖 Top 5 AI News
@@ -43,21 +43,21 @@
 ---
 ## 🎬 AI Coding Videos
 
-### 1. [Best AI Agent Tools In 2026 (Beginner Friendly)](https://www.youtube.com/watch?v=Bn7YX_RfAt0)
-**Channel:** Mikey No Code
-**Duration:** 16:45 | **Views:** 15K
-
-> *(No transcript available)*
-
-### 2. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
+### 1. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
 **Channel:** Tech With Tim
 **Duration:** 15:03 | **Views:** 82K
 
 > *(No transcript available)*
 
-### 3. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
+### 2. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
 **Channel:** Riley Brown
 **Duration:** 103:13 | **Views:** 165K
+
+> *(No transcript available)*
+
+### 3. [Best AI Coding Tools for Developers in 2026 (Don't Choose Wrong)](https://www.youtube.com/watch?v=RKbmqSRc0z0)
+**Channel:** Mikey No Code
+**Duration:** 27:10 | **Views:** 97K
 
 > *(No transcript available)*
 
