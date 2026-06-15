@@ -49,15 +49,15 @@
 
 > *(No transcript available)*
 
-### 2. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
-**Channel:** Riley Brown
-**Duration:** 103:13 | **Views:** 166K
+### 2. [Best AI Coding Tools for Developers in 2026 (Don't Choose Wrong)](https://www.youtube.com/watch?v=RKbmqSRc0z0)
+**Channel:** Mikey No Code
+**Duration:** 27:10 | **Views:** 98K
 
 > *(No transcript available)*
 
-### 3. [AI Automation Full Course for Beginners 2026](https://www.youtube.com/watch?v=uaEXcgBpLbo)
-**Channel:** Mikey No Code
-**Duration:** 27:27 | **Views:** 18K
+### 3. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
+**Channel:** Riley Brown
+**Duration:** 103:13 | **Views:** 166K
 
 > *(No transcript available)*
 
