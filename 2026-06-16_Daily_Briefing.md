@@ -43,14 +43,14 @@
 ---
 ## 🎬 AI Coding Videos
 
-### 1. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
-**Channel:** Tech With Tim
-**Duration:** 15:03 | **Views:** 82K
+### 1. [What Is AI Pair Programming? AI Coding Tools for Developers](https://www.youtube.com/watch?v=MTmhgIVhpag)
+**Duration:** 7:15 | **Views:** 6K
 
 > *(No transcript available)*
 
-### 2. [What Is AI Pair Programming? AI Coding Tools for Developers](https://www.youtube.com/watch?v=MTmhgIVhpag)
-**Duration:** 7:15 | **Views:** 6K
+### 2. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
+**Channel:** Tech With Tim
+**Duration:** 15:03 | **Views:** 82K
 
 > *(No transcript available)*
 
@@ -75,9 +75,9 @@
 ---
 ## ⛵ Sailing Video of the Day
 
-### [How to CRUISE THE FRENCH CANALS [Ep 15]](https://www.youtube.com/watch?v=8WVAIEkTqxg)
-**Channel:** Sailing Magic Carpet
-**Duration:** 18:47 | **Views:** 74K
+### [THE ULTIMATE DINGHY (row, motor, or sail it)](https://www.youtube.com/watch?v=rpi8OZsIBq4)
+**Channel:** Gone with the Wynns
+**Duration:** 19:35 | **Views:** 275K
 
 > *(No transcript available)*
 
