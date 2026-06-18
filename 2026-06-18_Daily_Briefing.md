@@ -43,28 +43,32 @@
 ---
 ## 🎬 AI Coding Videos
 
-### 1. [Best AI Coding Tools for Developers in 2026 (Don't Choose Wrong)](https://www.youtube.com/watch?v=RKbmqSRc0z0)
-**Duration:** N/A | **Views:** 0
+### 1. [What Is AI Pair Programming? AI Coding Tools for Developers](https://www.youtube.com/watch?v=MTmhgIVhpag)
+**Duration:** 7:15 | **Views:** 10K
 
 > *(No transcript available)*
 
-### 2. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
-**Duration:** N/A | **Views:** 0
+### 2. [Best AI Coding Tools for Developers in 2026 (Don't Choose Wrong)](https://www.youtube.com/watch?v=RKbmqSRc0z0)
+**Channel:** Mikey No Code
+**Duration:** 27:10 | **Views:** 99K
 
 > *(No transcript available)*
 
-### 3. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
-**Duration:** N/A | **Views:** 0
+### 3. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
+**Channel:** Riley Brown
+**Duration:** 103:13 | **Views:** 168K
 
 > *(No transcript available)*
 
-### 4. [Spec-Driven Development: AI Assisted Coding Explained](https://www.youtube.com/watch?v=mViFYTwWvcM)
-**Duration:** N/A | **Views:** 0
+### 4. [What Is Vibe Coding? Building Software with Agentic AI](https://www.youtube.com/watch?v=Y68FF_nUSWE)
+**Channel:** IBM Technology
+**Duration:** 7:00 | **Views:** 49K
 
 > *(No transcript available)*
 
-### 5. [What Is Vibe Coding? Building Software with Agentic AI](https://www.youtube.com/watch?v=Y68FF_nUSWE)
-**Duration:** N/A | **Views:** 0
+### 5. [Spec-Driven Development: AI Assisted Coding Explained](https://www.youtube.com/watch?v=mViFYTwWvcM)
+**Channel:** IBM Technology
+**Duration:** 8:59 | **Views:** 333K
 
 > *(No transcript available)*
 
@@ -72,7 +76,8 @@
 ## ⛵ Sailing Video of the Day
 
 ### [How to CRUISE THE FRENCH CANALS [Ep 15]](https://www.youtube.com/watch?v=8WVAIEkTqxg)
-**Duration:** N/A | **Views:** 0
+**Channel:** Sailing Magic Carpet
+**Duration:** 18:47 | **Views:** 74K
 
 > *(No transcript available)*
 
