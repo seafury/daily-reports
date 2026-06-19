@@ -43,15 +43,15 @@
 ---
 ## 🎬 AI Coding Videos
 
-### 1. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
-**Channel:** Tech With Tim
-**Duration:** 15:03 | **Views:** 82K
+### 1. [Best AI Coding Tools for Developers in 2026 (Don't Choose Wrong)](https://www.youtube.com/watch?v=RKbmqSRc0z0)
+**Channel:** Mikey No Code
+**Duration:** 27:10 | **Views:** 99K
 
 > *(No transcript available)*
 
-### 2. [Best AI Coding Tools for Developers in 2026 (Don't Choose Wrong)](https://www.youtube.com/watch?v=RKbmqSRc0z0)
-**Channel:** Mikey No Code
-**Duration:** 27:10 | **Views:** 100K
+### 2. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
+**Channel:** Tech With Tim
+**Duration:** 15:03 | **Views:** 82K
 
 > *(No transcript available)*
 
