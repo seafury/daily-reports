@@ -43,21 +43,21 @@
 ---
 ## 🎬 AI Coding Videos
 
-### 1. [Best AI Coding Tools for Developers in 2026 (Don't Choose Wrong)](https://www.youtube.com/watch?v=RKbmqSRc0z0)
-**Channel:** Mikey No Code
-**Duration:** 27:10 | **Views:** 100K
+### 1. [7 new open source AI tools you need right now…](https://www.youtube.com/watch?v=Xn-gtHDsaPY)
+**Channel:** Fireship
+**Duration:** 6:14 | **Views:** 857K
 
 > *(No transcript available)*
 
-### 2. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
-**Channel:** Tech With Tim
-**Duration:** 15:03 | **Views:** 82K
+### 2. [How to build an iOS app in 2026 (Complete Guide / with AI)](https://www.youtube.com/watch?v=7OiJtpeiUNw)
+**Channel:** Cole Caccamise
+**Duration:** 9:41 | **Views:** 11K
 
 > *(No transcript available)*
 
-### 3. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
-**Channel:** Riley Brown
-**Duration:** 103:13 | **Views:** 170K
+### 3. [Generative AI Full Course 2026 [FREE] | Gen AI Tutorial For Beginners | Gen AI Course | Simplilearn](https://www.youtube.com/watch?v=E9oaDnkAUoo)
+**Channel:** Simplilearn
+**Duration:** 1410:14 | **Views:** 2K
 
 > *(No transcript available)*
 
@@ -76,9 +76,9 @@
 ---
 ## ⛵ Sailing Video of the Day
 
-### [A Closer Look: Oyster 675 Full Walkthrough Boat Tour | Oyster Yachts](https://www.youtube.com/watch?v=dwlzYSNCrqg)
-**Channel:** Oyster Yachts
-**Duration:** 14:59 | **Views:** 459K
+### [THE ULTIMATE DINGHY (row, motor, or sail it)](https://www.youtube.com/watch?v=rpi8OZsIBq4)
+**Channel:** Gone with the Wynns
+**Duration:** 19:35 | **Views:** 275K
 
 > *(No transcript available)*
 
