@@ -43,21 +43,21 @@
 ---
 ## 🎬 AI Coding Videos
 
-### 1. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
-**Channel:** Tech With Tim
-**Duration:** 15:03 | **Views:** 82K
+### 1. [7 new open source AI tools you need right now…](https://www.youtube.com/watch?v=Xn-gtHDsaPY)
+**Channel:** Fireship
+**Duration:** 6:14 | **Views:** 857K
 
 > *(No transcript available)*
 
-### 2. [Best AI Coding Tools for Developers in 2026 (Don't Choose Wrong)](https://www.youtube.com/watch?v=RKbmqSRc0z0)
-**Channel:** Mikey No Code
-**Duration:** 27:10 | **Views:** 100K
+### 2. [The Only AI Tools You Need (12-Minute Guide)](https://www.youtube.com/watch?v=htZRCE2GgIs)
+**Channel:** Jeff Su
+**Duration:** 11:56 | **Views:** 679K
 
 > *(No transcript available)*
 
-### 3. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
-**Channel:** Riley Brown
-**Duration:** 103:13 | **Views:** 170K
+### 3. [Google's SECRET 8 AI Tools Just REPLACED Every Paid AI Tool (100% FREE Stack)](https://www.youtube.com/watch?v=RIPxwxqZhVI)
+**Channel:** Vaibhav Sisinty
+**Duration:** 102:28 | **Views:** 73K
 
 > *(No transcript available)*
 
@@ -76,9 +76,9 @@
 ---
 ## ⛵ Sailing Video of the Day
 
-### [THE ULTIMATE DINGHY (row, motor, or sail it)](https://www.youtube.com/watch?v=rpi8OZsIBq4)
-**Channel:** Gone with the Wynns
-**Duration:** 19:35 | **Views:** 275K
+### [A Closer Look: Oyster 675 Full Walkthrough Boat Tour | Oyster Yachts](https://www.youtube.com/watch?v=dwlzYSNCrqg)
+**Channel:** Oyster Yachts
+**Duration:** 14:59 | **Views:** 459K
 
 > *(No transcript available)*
 
