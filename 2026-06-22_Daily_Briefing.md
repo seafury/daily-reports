@@ -43,15 +43,15 @@
 ---
 ## 🎬 AI Coding Videos
 
-### 1. [Best AI Coding Tools for Developers in 2026 (Don't Choose Wrong)](https://www.youtube.com/watch?v=RKbmqSRc0z0)
-**Channel:** Mikey No Code
-**Duration:** 27:10 | **Views:** 101K
+### 1. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
+**Channel:** Tech With Tim
+**Duration:** 15:03 | **Views:** 83K
 
 > *(No transcript available)*
 
-### 2. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
-**Channel:** Tech With Tim
-**Duration:** 15:03 | **Views:** 83K
+### 2. [Best AI Coding Tools for Developers in 2026 (Don't Choose Wrong)](https://www.youtube.com/watch?v=RKbmqSRc0z0)
+**Channel:** Mikey No Code
+**Duration:** 27:10 | **Views:** 101K
 
 > *(No transcript available)*
 
@@ -61,15 +61,15 @@
 
 > *(No transcript available)*
 
-### 4. [What Is Vibe Coding? Building Software with Agentic AI](https://www.youtube.com/watch?v=Y68FF_nUSWE)
-**Channel:** IBM Technology
-**Duration:** 7:00 | **Views:** 49K
+### 4. [Vibe code conversational agents in AI Studio](https://www.youtube.com/watch?v=KiJcZlqJKuE)
+**Channel:** Google for Developers
+**Duration:** 7:48 | **Views:** 6K
 
 > *(No transcript available)*
 
-### 5. [Spec-Driven Development: AI Assisted Coding Explained](https://www.youtube.com/watch?v=mViFYTwWvcM)
+### 5. [What Is Vibe Coding? Building Software with Agentic AI](https://www.youtube.com/watch?v=Y68FF_nUSWE)
 **Channel:** IBM Technology
-**Duration:** 8:59 | **Views:** 338K
+**Duration:** 7:00 | **Views:** 49K
 
 > *(No transcript available)*
 
