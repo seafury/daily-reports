@@ -1,6 +1,6 @@
 # 📰 Daily Briefing — Tuesday, 23 June 2026
 
-*Generated 11:48 SAST | Cape Town, South Africa*
+*Generated 11:50 SAST | Cape Town, South Africa*
 
 ---
 ## 🤖 Top 5 AI News
@@ -49,36 +49,36 @@
 
 > *(No transcript available)*
 
-### 2. [The Only AI Tools You Need (12-Minute Guide)](https://www.youtube.com/watch?v=htZRCE2GgIs)
-**Channel:** Jeff Su
-**Duration:** 11:56 | **Views:** 684K
+### 2. [Learn 80% of Claude Code in 10 Minutes (2026 Tutorial)](https://www.youtube.com/watch?v=3aKVArutiIU)
+**Channel:** Sajjaad Khader
+**Duration:** 9:56 | **Views:** 131K
 
 > *(No transcript available)*
 
-### 3. [Claude Code Tutorial - Build Apps 10x Faster with AI](https://www.youtube.com/watch?v=IuyVVtr1uhY)
-**Channel:** Programming with Mosh
-**Duration:** 58:11 | **Views:** 375K
+### 3. [Start a 1-Person Business with Claude (4 HOUR COURSE 2026)](https://www.youtube.com/watch?v=mKyaNr3jK-E)
+**Channel:** Albert Olgaard
+**Duration:** 218:26 | **Views:** 556K
 
 > *(No transcript available)*
 
-### 4. [Vibe code conversational agents in AI Studio](https://www.youtube.com/watch?v=KiJcZlqJKuE)
-**Channel:** Google for Developers
-**Duration:** 7:48 | **Views:** 6K
-
-> *(No transcript available)*
-
-### 5. [What Is Vibe Coding? Building Software with Agentic AI](https://www.youtube.com/watch?v=Y68FF_nUSWE)
+### 4. [What Is Vibe Coding? Building Software with Agentic AI](https://www.youtube.com/watch?v=Y68FF_nUSWE)
 **Channel:** IBM Technology
 **Duration:** 7:00 | **Views:** 50K
+
+> *(No transcript available)*
+
+### 5. [Vibe code conversational agents in AI Studio](https://www.youtube.com/watch?v=KiJcZlqJKuE)
+**Channel:** Google for Developers
+**Duration:** 7:48 | **Views:** 6K
 
 > *(No transcript available)*
 
 ---
 ## ⛵ Sailing Video of the Day
 
-### [A Closer Look: Oyster 675 Full Walkthrough Boat Tour | Oyster Yachts](https://www.youtube.com/watch?v=dwlzYSNCrqg)
-**Channel:** Oyster Yachts
-**Duration:** 14:59 | **Views:** 460K
+### [I bought a 32ft sailboat in Denmark (with no experience)](https://www.youtube.com/watch?v=W842TdBj9vc)
+**Channel:** Nordic Adam
+**Duration:** 22:49 | **Views:** 775K
 
 > *(No transcript available)*
 
