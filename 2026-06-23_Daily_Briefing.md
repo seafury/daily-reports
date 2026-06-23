@@ -1,6 +1,6 @@
 # 📰 Daily Briefing — Tuesday, 23 June 2026
 
-*Generated 07:00 SAST | Cape Town, South Africa*
+*Generated 11:48 SAST | Cape Town, South Africa*
 
 ---
 ## 🤖 Top 5 AI News
@@ -43,32 +43,33 @@
 ---
 ## 🎬 AI Coding Videos
 
-### 1. [The Only AI Coding Tools Worth Learning in 2026](https://www.youtube.com/watch?v=-VTiqivKOB8)
-**Channel:** Tech With Tim
-**Duration:** 15:03 | **Views:** 83K
+### 1. [7 new open source AI tools you need right now…](https://www.youtube.com/watch?v=Xn-gtHDsaPY)
+**Channel:** Fireship
+**Duration:** 6:14 | **Views:** 859K
 
 > *(No transcript available)*
 
-### 2. [Best AI Coding Tools for Developers in 2026 (Don't Choose Wrong)](https://www.youtube.com/watch?v=RKbmqSRc0z0)
-**Channel:** Mikey No Code
-**Duration:** 27:10 | **Views:** 101K
+### 2. [The Only AI Tools You Need (12-Minute Guide)](https://www.youtube.com/watch?v=htZRCE2GgIs)
+**Channel:** Jeff Su
+**Duration:** 11:56 | **Views:** 684K
 
 > *(No transcript available)*
 
-### 3. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
-**Channel:** Riley Brown
-**Duration:** 103:13 | **Views:** 172K
+### 3. [Claude Code Tutorial - Build Apps 10x Faster with AI](https://www.youtube.com/watch?v=IuyVVtr1uhY)
+**Channel:** Programming with Mosh
+**Duration:** 58:11 | **Views:** 375K
 
 > *(No transcript available)*
 
-### 4. [What Is Vibe Coding? Building Software with Agentic AI](https://www.youtube.com/watch?v=Y68FF_nUSWE)
+### 4. [Vibe code conversational agents in AI Studio](https://www.youtube.com/watch?v=KiJcZlqJKuE)
+**Channel:** Google for Developers
+**Duration:** 7:48 | **Views:** 6K
+
+> *(No transcript available)*
+
+### 5. [What Is Vibe Coding? Building Software with Agentic AI](https://www.youtube.com/watch?v=Y68FF_nUSWE)
 **Channel:** IBM Technology
-**Duration:** 7:00 | **Views:** 49K
-
-> *(No transcript available)*
-
-### 5. [AI in the SDLC: Rethinking AI Coding Tools & AI Agents](https://www.youtube.com/watch?v=4wMRXmLpdA8)
-**Duration:** 9:27 | **Views:** 16K
+**Duration:** 7:00 | **Views:** 50K
 
 > *(No transcript available)*
 
