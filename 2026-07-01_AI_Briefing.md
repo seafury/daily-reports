@@ -1,5 +1,5 @@
 # 🤖 Daily AI Briefing — 2026-07-01
-**Generated:** 11:31 SAST
+**Generated:** 11:41 SAST
 **Sources:** TechCrunch, VentureBeat, The Decoder, MarkTechPost, Hacker News Algolia
 
 ---
@@ -8,7 +8,7 @@
 
 ### 1. [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
 - **Source:** Hacker News
-- **Why it matters:** HN points: 90 | comments: 53
+- **Why it matters:** HN points: 109 | comments: 60
 
 ### 2. [Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared](https://www.marktechpost.com/2026/06/30/anthropic-claude-sonnet-5-vs-sonnet-4-6-vs-opus-4-8-agentic-coding-benchmarks-api-pricing-and-cost-performance-tradeoffs-compared/)
 - **Source:** MarkTechPost
