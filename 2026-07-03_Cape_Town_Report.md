@@ -1,5 +1,5 @@
 # 🌊 Cape Town — Daily Weather & Tide Report
-**Generated:** 07:00 SAST | **Date:** Friday, 03 July 2026
+**Generated:** 08:04 SAST | **Date:** Friday, 03 July 2026
 **Sources:** Open-Meteo Weather & Marine API, tide-forecast.com, SAWS Synoptic Chart
 
 ---
@@ -7,11 +7,11 @@
 
 | Metric | Value |
 |--------|-------|
-| 🌡️ Temperature | 11.4°C |
-| 💧 Humidity | 85% |
-| 🌬️ Wind | 18.2 km/h from N (360°) |
-| 💨 Gusts | 59.0 km/h |
-| 🔵 Pressure | 1022.7 hPa |
+| 🌡️ Temperature | 10.8°C |
+| 💧 Humidity | 84% |
+| 🌬️ Wind | 15.9 km/h from N (4°) |
+| 💨 Gusts | 56.5 km/h |
+| 🔵 Pressure | 1023.1 hPa |
 | 🌧️ Conditions | Overcast ☁️ (Code 3) |
 
 ---
@@ -28,7 +28,7 @@
 - **Temp:** 10.8°C – 14.7°C
 - **Wind:** 23.3 km/h (NNW) | Gusts: 71.6 km/h
 - **Precipitation:** 2.9 mm
-- **UV Index:** 3.15
+- **UV Index:** 3.2
 
 ### 📅 Saturday, 04 Jul
 - **Conditions:** Overcast ☁️
@@ -42,7 +42,7 @@
 - **Temp:** 9.5°C – 17.5°C
 - **Wind:** 6.2 km/h (NNW) | Gusts: 28.1 km/h
 - **Precipitation:** 0.0 mm
-- **UV Index:** 3.1
+- **UV Index:** 3.5
 
 ---
 ## 🌊 Marine Conditions (Open-Meteo Marine)
@@ -380,6 +380,6 @@
 - **Next high tide:** 5:03 AM at 1.54m
 
 ---
-*Report generated 07:00 SAST | Cape Town, South Africa*
+*Report generated 08:04 SAST | Cape Town, South Africa*
 
 *Tomorrow's report drops at 7:00 AM SAST. Fair winds! 🧭*

@@ -406,14 +406,14 @@ def git_push(filepath):
         subprocess.run(["git","add","-A"], check=False)
         subprocess.run(["git","commit","-m",f"Daily briefing {TODAY}"],
                        capture_output=True, text=True)
-        subprocess.run(["git","pull","--rebase","origin","main"],
+        subprocess.run(["git","-c","credential.helper=","pull","--rebase","origin","main"],
                        capture_output=True, text=True)
-        r = subprocess.run(["git","push","origin","main"],
+        r = subprocess.run(["git","-c","credential.helper=","push","origin","main"],
                            capture_output=True, text=True)
         if r.returncode != 0:
-            subprocess.run(["git","pull","--rebase","origin","master"],
+            subprocess.run(["git","-c","credential.helper=","pull","--rebase","origin","master"],
                            capture_output=True, text=True)
-            r = subprocess.run(["git","push","origin","master"],
+            r = subprocess.run(["git","-c","credential.helper=","push","origin","master"],
                                capture_output=True, text=True)
         if r.returncode == 0:
             print("  ✅ GitHub push successful."); return True
