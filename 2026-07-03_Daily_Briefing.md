@@ -1,6 +1,6 @@
 # 📰 Daily Briefing — Friday, 03 July 2026
 
-*Generated 07:00 SAST | Cape Town, South Africa*
+*Generated 08:04 SAST | Cape Town, South Africa*
 
 ---
 ## 🤖 Top 5 AI News
@@ -53,7 +53,7 @@
 
 > *(No transcript available)*
 
-### 3. [Codex Full Course 2026: The NEW Best AI Coding Tool](https://www.youtube.com/watch?v=KXIdYEdOPys)
+### 3. [FULL Claude Code Tutorial For Beginners in 2026! (Become a PRO)](https://www.youtube.com/watch?v=X_zVY3-mbM8)
 **Duration:** N/A | **Views:** 0
 
 > *(No transcript available)*
@@ -71,7 +71,7 @@
 ---
 ## ⛵ Sailing Video of the Day
 
-### [Fleming 55 : Scotland Cruising Adventure](https://www.youtube.com/watch?v=UJ_r21EGOSY)
+### [A Closer Look: Oyster 675 Full Walkthrough Boat Tour | Oyster Yachts](https://www.youtube.com/watch?v=dwlzYSNCrqg)
 **Duration:** N/A | **Views:** 0
 
 > *(No transcript available)*
