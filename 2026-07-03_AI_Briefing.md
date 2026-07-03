@@ -1,5 +1,5 @@
 # 🤖 Daily AI Briefing — 2026-07-03
-**Generated:** 08:00 SAST
+**Generated:** 08:07 SAST
 **Sources:** TechCrunch, VentureBeat, The Decoder, MarkTechPost, Hacker News Algolia
 
 ---
@@ -8,7 +8,7 @@
 
 ### 1. [The short leash AI coding method for beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
 - **Source:** Hacker News
-- **Why it matters:** HN points: 96 | comments: 124
+- **Why it matters:** HN points: 99 | comments: 125
 
 ### 2. [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com)
 - **Source:** Hacker News
