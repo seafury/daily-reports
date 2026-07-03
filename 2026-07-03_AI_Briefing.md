@@ -1,5 +1,5 @@
 # 🤖 Daily AI Briefing — 2026-07-03
-**Generated:** 07:05 SAST
+**Generated:** 07:57 SAST
 **Sources:** TechCrunch, VentureBeat, The Decoder, MarkTechPost, Hacker News Algolia
 
 ---
@@ -8,11 +8,11 @@
 
 ### 1. [The short leash AI coding method for beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)
 - **Source:** Hacker News
-- **Why it matters:** HN points: 88 | comments: 105
+- **Why it matters:** HN points: 96 | comments: 122
 
 ### 2. [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com)
 - **Source:** Hacker News
-- **Why it matters:** HN points: 104 | comments: 62
+- **Why it matters:** HN points: 105 | comments: 63
 
 ### 3. [Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models "want a smaller system prompt"](https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/)
 - **Source:** The Decoder
@@ -36,9 +36,9 @@
 
 3. **[The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data](https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/)** — MarkTechPost
 
-4. **[AskHN: Using 'claude -p' for running Mr.Jassy - AWS butler agent](https://news.ycombinator.com/item?id=48770691)** — Hacker News
+4. **[Agentic Software Engineering (ASE): Agentic AI Coding Meets Software Engineering](https://ase.tools/)** — Hacker News
 
-5. **[Show HN: AI-14all – All you (or your AI agents) need for coding](https://ai-creed.dev/projects/ai-14all/)** — Hacker News
+5. **[AskHN: Using 'claude -p' for running Mr.Jassy - AWS butler agent](https://news.ycombinator.com/item?id=48770691)** — Hacker News
 
 ---
 
