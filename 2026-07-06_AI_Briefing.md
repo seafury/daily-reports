@@ -1,5 +1,5 @@
 # 🤖 Daily AI Briefing — 2026-07-06
-**Generated:** 07:49 SAST
+**Generated:** 07:51 SAST
 **Sources:** TechCrunch, VentureBeat, The Decoder, MarkTechPost, Hacker News Algolia
 
 ---
@@ -8,7 +8,7 @@
 
 ### 1. [Does code cleanliness affect coding agents? A controlled minimal-pair study](https://arxiv.org/abs/2605.20049)
 - **Source:** Hacker News
-- **Why it matters:** HN points: 77 | comments: 39
+- **Why it matters:** HN points: 78 | comments: 40
 
 ### 2. [Show HN: KiCad in the Browser](https://demo.pcbjam.com/)
 - **Source:** Hacker News
