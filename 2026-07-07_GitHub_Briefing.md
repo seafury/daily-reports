@@ -24,7 +24,7 @@
 
 ### 5. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-- ⭐ **1,458 stars today** | Total stars: 59,303 | Language: JavaScript
+- ⭐ **1,458 stars today** | Total stars: 59,305 | Language: JavaScript
 
 ### 6. [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
 - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
@@ -44,7 +44,7 @@
 
 ### 10. [bradautomates/claude-video](https://github.com/bradautomates/claude-video)
 - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-- ⭐ **427 stars today** | Total stars: 4,464 | Language: Python
+- ⭐ **427 stars today** | Total stars: 4,465 | Language: Python
 
 ---
 
