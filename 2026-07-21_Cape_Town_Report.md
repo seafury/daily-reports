@@ -1,5 +1,5 @@
 # 🌊 Cape Town — Daily Weather & Tide Report
-**Generated:** 07:01 SAST | **Date:** Tuesday, 21 July 2026
+**Generated:** 09:36 SAST | **Date:** Tuesday, 21 July 2026
 **Sources:** Open-Meteo Weather & Marine API, tide-forecast.com, SAWS Synoptic Chart
 
 ---
@@ -7,11 +7,11 @@
 
 | Metric | Value |
 |--------|-------|
-| 🌡️ Temperature | 8.0°C |
-| 💧 Humidity | 100% |
-| 🌬️ Wind | 2.9 km/h from NE (43°) |
-| 💨 Gusts | 10.8 km/h |
-| 🔵 Pressure | 1019.0 hPa |
+| 🌡️ Temperature | 10.4°C |
+| 💧 Humidity | 96% |
+| 🌬️ Wind | 4.5 km/h from NNE (16°) |
+| 💨 Gusts | 14.4 km/h |
+| 🔵 Pressure | 1020.1 hPa |
 | 🌧️ Conditions | Overcast ☁️ (Code 3) |
 
 ---
@@ -25,24 +25,24 @@
 
 ### 📅 Tuesday, 21 Jul
 - **Conditions:** Overcast ☁️
-- **Temp:** 7.8°C – 15.2°C
-- **Wind:** 7.4 km/h (SSW) | Gusts: 22.3 km/h
+- **Temp:** 7.9°C – 15.1°C
+- **Wind:** 6.7 km/h (WNW) | Gusts: 21.2 km/h
 - **Precipitation:** 0.0 mm
 - **UV Index:** 3.85
 
 ### 📅 Wednesday, 22 Jul
 - **Conditions:** Overcast ☁️
-- **Temp:** 8.4°C – 14.3°C
-- **Wind:** 16.3 km/h (NNW) | Gusts: 46.4 km/h
+- **Temp:** 8.0°C – 14.6°C
+- **Wind:** 15.3 km/h (NNW) | Gusts: 44.6 km/h
 - **Precipitation:** 0.0 mm
-- **UV Index:** 4.0
+- **UV Index:** 3.95
 
 ### 📅 Thursday, 23 Jul
 - **Conditions:** Moderate showers 🌦️
-- **Temp:** 11.5°C – 14.8°C
-- **Wind:** 21.0 km/h (NNW) | Gusts: 63.0 km/h
-- **Precipitation:** 11.4 mm
-- **UV Index:** 0.75
+- **Temp:** 11.1°C – 15.1°C
+- **Wind:** 20.3 km/h (NNW) | Gusts: 62.3 km/h
+- **Precipitation:** 15.7 mm
+- **UV Index:** 0.8
 
 ---
 ## 🌊 Marine Conditions (Open-Meteo Marine)
@@ -374,12 +374,12 @@
 ---
 ## ⛵ Sailing & Navigation Notes
 
-- **Today's max wind:** 7.4 km/h from SSW
+- **Today's max wind:** 6.7 km/h from WNW
 - **Today's max swell:** 2.4m
 - Moderate conditions — headlands and swells will be noticeable. Good for experienced sailors.
 - **Next high tide:** 8:20 AM at 1.30m
 
 ---
-*Report generated 07:01 SAST | Cape Town, South Africa*
+*Report generated 09:36 SAST | Cape Town, South Africa*
 
 *Tomorrow's report drops at 7:00 AM SAST. Fair winds! 🧭*
