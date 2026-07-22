@@ -1,5 +1,5 @@
 # 🤖 Daily AI Briefing — 2026-07-22
-**Generated:** 07:05 SAST
+**Generated:** 11:25 SAST
 **Sources:** TechCrunch, VentureBeat, The Decoder, MarkTechPost, Hacker News Algolia
 
 ---
@@ -38,7 +38,7 @@
 
 4. **[Show HN: Reachpad – Run all your coding agents from anywhere from the browser](https://reachpad.dev/)** — Hacker News
 
-5. **[OpenBench – A benchmark for comparing coding-agent harnesses](https://twitter.com/mattlam_/status/2079605387121049605)** — Hacker News
+5. **[A simple API for offering your coding agent a smoke break](https://smoke-break.pineapplefreefall.com)** — Hacker News
 
 ---
 
