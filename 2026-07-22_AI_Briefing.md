@@ -1,5 +1,5 @@
 # 🤖 Daily AI Briefing — 2026-07-22
-**Generated:** 11:26 SAST
+**Generated:** 11:28 SAST
 **Sources:** TechCrunch, VentureBeat, The Decoder, MarkTechPost, Hacker News Algolia
 
 ---
