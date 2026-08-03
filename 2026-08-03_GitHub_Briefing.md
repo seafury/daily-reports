@@ -1,5 +1,5 @@
 # ⭐ Daily GitHub Trending Briefing — 2026-08-03
-**Generated:** 07:45 SAST
+**Generated:** 07:47 SAST
 **Source:** [GitHub Trending daily](https://github.com/trending?since=daily)
 
 ---
@@ -8,7 +8,7 @@
 
 ### 1. [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
 - 12 Weeks, 24 Lessons, AI for All!
-- ⭐ **2,629 stars today** | Total stars: 59,593 | Language: Jupyter Notebook
+- ⭐ **2,629 stars today** | Total stars: 59,595 | Language: Jupyter Notebook
 
 ### 2. [usekaneo/kaneo](https://github.com/usekaneo/kaneo)
 - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
@@ -20,15 +20,15 @@
 
 ### 4. [iv-org/invidious](https://github.com/iv-org/invidious)
 - Invidious is an alternative front-end to YouTube
-- ⭐ **305 stars today** | Total stars: 22,056 | Language: Crystal
+- ⭐ **305 stars today** | Total stars: 22,057 | Language: Crystal
 
 ### 5. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - Master programming by recreating your favorite technologies from scratch.
-- ⭐ **674 stars today** | Total stars: 535,136 | Language: Markdown
+- ⭐ **674 stars today** | Total stars: 535,139 | Language: Markdown
 
 ### 6. [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-- ⭐ **1,141 stars today** | Total stars: 14,133 | Language: PowerShell
+- ⭐ **1,141 stars today** | Total stars: 14,139 | Language: PowerShell
 
 ### 7. [different-ai/openwork](https://github.com/different-ai/openwork)
 - The open-source alternative to Claude Cowork (powered by opencode)
@@ -36,15 +36,15 @@
 
 ### 8. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
 - 21 Lessons, Get Started Building with Generative AI
-- ⭐ **588 stars today** | Total stars: 114,982 | Language: Jupyter Notebook
+- ⭐ **588 stars today** | Total stars: 114,983 | Language: Jupyter Notebook
 
 ### 9. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- ⭐ **659 stars today** | Total stars: 64,977 | Language: Python
+- ⭐ **659 stars today** | Total stars: 64,980 | Language: Python
 
 ### 10. [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
 - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-- ⭐ **602 stars today** | Total stars: 11,354 | Language: TypeScript
+- ⭐ **602 stars today** | Total stars: 11,356 | Language: TypeScript
 
 ---
 
