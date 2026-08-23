@@ -1,0 +1,53 @@
+# ⭐ Daily GitHub Trending Briefing — 2026-08-23
+**Generated:** 07:10 SAST
+**Source:** [GitHub Trending daily](https://github.com/trending?since=daily)
+
+---
+
+## Top 10 Repositories by GitHub Trending Stars Today
+
+### 1. [openai/codex](https://github.com/openai/codex)
+- Lightweight coding agent that runs in your terminal
+- ⭐ **1,544 stars today** | Total stars: 113,860 | Language: Rust
+
+### 2. [mattpocock/skills](https://github.com/mattpocock/skills)
+- Skills for Real Engineers. Straight from my .agents directory.
+- ⭐ **2,683 stars today** | Total stars: 232,439 | Language: Shell
+
+### 3. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+- The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- ⭐ **411 stars today** | Total stars: 242,239 | Language: JavaScript
+
+### 4. [obra/superpowers](https://github.com/obra/superpowers)
+- An agentic skills framework & software development methodology that works.
+- ⭐ **592 stars today** | Total stars: 276,275 | Language: Shell
+
+### 5. [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+- Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- ⭐ **278 stars today** | Total stars: 38,846 | Language: Go
+
+### 6. [makeplane/plane](https://github.com/makeplane/plane)
+- 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+- ⭐ **263 stars today** | Total stars: 57,287 | Language: TypeScript
+
+### 7. [n8n-io/n8n](https://github.com/n8n-io/n8n)
+- Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- ⭐ **149 stars today** | Total stars: 201,898 | Language: TypeScript
+
+### 8. [anthropics/claude-code](https://github.com/anthropics/claude-code)
+- Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- ⭐ **127 stars today** | Total stars: 142,604 | Language: Python
+
+### 9. [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+- ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+- ⭐ **959 stars today** | Total stars: 14,093 | Language: Rust
+
+### 10. [modular/modular](https://github.com/modular/modular)
+- The Modular Platform (includes MAX & Mojo)
+- ⭐ **395 stars today** | Total stars: 28,876 | Language: Mojo
+
+---
+
+## Lodi Filter
+
+Prioritize developer tools, AI/ML, automation, web dev, and self-hosted projects. Skip hype-only repos unless they are technically useful.
