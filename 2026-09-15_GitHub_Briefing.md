@@ -1,0 +1,53 @@
+# ⭐ Daily GitHub Trending Briefing — 2026-09-15
+**Generated:** 07:10 SAST
+**Source:** [GitHub Trending daily](https://github.com/trending?since=daily)
+
+---
+
+## Top 10 Repositories by GitHub Trending Stars Today
+
+### 1. [JustVugg/colibri](https://github.com/JustVugg/colibri)
+- Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- ⭐ **2,173 stars today** | Total stars: 32,408 | Language: C
+
+### 2. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+- Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+- ⭐ **1,571 stars today** | Total stars: 26,244 | Language: Go
+
+### 3. [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)
+- YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+- ⭐ **559 stars today** | Total stars: 8,561 | Language: Python
+
+### 4. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+- VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+- ⭐ **2,776 stars today** | Total stars: 29,641 | Language: Python
+
+### 5. [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+- A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- ⭐ **560 stars today** | Total stars: 73,363 | Language: Python
+
+### 6. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+- Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- ⭐ **651 stars today** | Total stars: 81,540 | Language: Python
+
+### 7. [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+- Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+- ⭐ **764 stars today** | Total stars: 66,933 | Language: JavaScript
+
+### 8. [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
+- All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
+- ⭐ **77 stars today** | Total stars: 2,182 | Language: Python
+
+### 9. [localsend/localsend](https://github.com/localsend/localsend)
+- An open-source cross-platform alternative to AirDrop
+- ⭐ **251 stars today** | Total stars: 91,440 | Language: Dart
+
+### 10. [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
+- Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- ⭐ **115 stars today** | Total stars: 67,588 | Language: Rust
+
+---
+
+## Lodi Filter
+
+Prioritize developer tools, AI/ML, automation, web dev, and self-hosted projects. Skip hype-only repos unless they are technically useful.
