@@ -1,0 +1,53 @@
+# ⭐ Daily GitHub Trending Briefing — 2026-09-30
+**Generated:** 07:10 SAST
+**Source:** [GitHub Trending daily](https://github.com/trending?since=daily)
+
+---
+
+## Top 10 Repositories by GitHub Trending Stars Today
+
+### 1. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+- VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+- ⭐ **4,758 stars today** | Total stars: 48,674 | Language: Python
+
+### 2. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+- OpenShell is the safe, private runtime for autonomous AI agents.
+- ⭐ **990 stars today** | Total stars: 10,826 | Language: Rust
+
+### 3. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+- Hindsight: Agent Memory That Learns
+- ⭐ **2,575 stars today** | Total stars: 43,102 | Language: Python
+
+### 4. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+- The open-source app everyone uses to manage agents at work
+- ⭐ **2,458 stars today** | Total stars: 94,690 | Language: TypeScript
+
+### 5. [t8y2/dbx](https://github.com/t8y2/dbx)
+- 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
+- ⭐ **232 stars today** | Total stars: 22,342 | Language: Rust
+
+### 6. [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+- Multi-agent harness that runs Claude Code and Codex together as one system
+- ⭐ **737 stars today** | Total stars: 2,544 | Language: TypeScript
+
+### 7. [oblien/openship](https://github.com/oblien/openship)
+- Self-hosted deployment platform
+- ⭐ **437 stars today** | Total stars: 13,960 | Language: TypeScript
+
+### 8. [averygan/reclip](https://github.com/averygan/reclip)
+- Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
+- ⭐ **113 stars today** | Total stars: 10,279 | Language: HTML
+
+### 9. [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook)
+- Open Source Introductory Systems Programming Textbook for the University of Illinois
+- ⭐ **572 stars today** | Total stars: 3,180 | Language: TeX
+
+### 10. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+- Learn it. Build it. Ship it for others.
+- ⭐ **786 stars today** | Total stars: 61,630 | Language: Python
+
+---
+
+## Lodi Filter
+
+Prioritize developer tools, AI/ML, automation, web dev, and self-hosted projects. Skip hype-only repos unless they are technically useful.
