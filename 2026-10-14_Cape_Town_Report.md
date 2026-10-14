@@ -1,5 +1,5 @@
 # 🌊 Cape Town — Daily Weather & Tide Report
-**Generated:** 07:13 SAST | **Date:** Wednesday, 14 October 2026
+**Generated:** 07:59 SAST | **Date:** Wednesday, 14 October 2026
 **Sources:** Open-Meteo Weather & Marine API, tide-forecast.com, SAWS Synoptic Chart
 
 ---
@@ -7,12 +7,12 @@
 
 | Metric | Value |
 |--------|-------|
-| 🌡️ Temperature | 11.4°C |
-| 💧 Humidity | 90% |
-| 🌬️ Wind | 3.5 km/h from NNW (332°) |
-| 💨 Gusts | 20.2 km/h |
-| 🔵 Pressure | 1016.0 hPa |
-| 🌧️ Conditions | Partly cloudy ⛅ (Code 2) |
+| 🌡️ Temperature | 13.0°C |
+| 💧 Humidity | 82% |
+| 🌬️ Wind | 4.9 km/h from NNW (343°) |
+| 💨 Gusts | 24.1 km/h |
+| 🔵 Pressure | 1016.4 hPa |
+| 🌧️ Conditions | Overcast ☁️ (Code 3) |
 
 ---
 ## 🗺️ SAWS Synoptic Chart
@@ -28,14 +28,14 @@
 - **Temp:** 10.1°C – 17.5°C
 - **Wind:** 20.4 km/h (NW) | Gusts: 63.7 km/h
 - **Precipitation:** 0.0 mm
-- **UV Index:** 6.7
+- **UV Index:** 6.85
 
 ### 📅 Thursday, 15 Oct
 - **Conditions:** Overcast ☁️
 - **Temp:** 12.5°C – 19.6°C
 - **Wind:** 21.7 km/h (NNW) | Gusts: 64.1 km/h
 - **Precipitation:** 0.0 mm
-- **UV Index:** 7.65
+- **UV Index:** 8.0
 
 ### 📅 Friday, 16 Oct
 - **Conditions:** Foggy 🌫️
@@ -111,6 +111,6 @@
 - Moderate conditions — headlands and swells will be noticeable. Good for experienced sailors.
 
 ---
-*Report generated 07:13 SAST | Cape Town, South Africa*
+*Report generated 07:59 SAST | Cape Town, South Africa*
 
 *Tomorrow's report drops at 7:00 AM SAST. Fair winds! 🧭*
